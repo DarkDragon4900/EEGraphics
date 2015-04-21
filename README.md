@@ -9,4 +9,3 @@ Last but not least, use
 Graphix.(preferredItem)(params);
 ```
 to get your line/ellipse/rectangle.
-
